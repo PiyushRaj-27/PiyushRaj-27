@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiyushRaj-27
 - 👀 I’m interested in Web Development and game development
-- 🌱 I’m currently learning Programming languages like: c,c++, python, java and I have knowledge of HTML, CSS, JS with Django for backend.
+- 🌱 Programming Language known: C++, Java, Python, C. Framework known: Django, SciKit.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me::To reach me you can Email me at : piyushraj.270203@gmail.com
 
